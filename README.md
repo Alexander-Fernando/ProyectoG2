@@ -24,3 +24,5 @@ Katherine Celine Ambrocio Milla - [@newswift](https://github.com/newswift/) - ka
 
 Crhistian Villantoy Mata - [@imcrhistian](https://github.com/imcrhistian/) - crhistian.villantoy@unmsm.edu.pe
 
+Fernando Alexander Gonzales Pardo- [@Alexander-Fernando](https://github.com/Alexander-Fernando) - francisco.gonzales3@unmsm.edu.pe
+
