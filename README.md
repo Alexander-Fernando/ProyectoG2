@@ -26,3 +26,4 @@ Crhistian Villantoy Mata - [@imcrhistian](https://github.com/imcrhistian/) - crh
 
 Fernando Alexander Gonzales Pardo- [@Alexander-Fernando](https://github.com/Alexander-Fernando) - francisco.gonzales3@unmsm.edu.pe
 
+Renzo Jesus Leon Bautista - [@Renzoleon](https://github.com/Renzoleon/) - renzo.leon1@unmsm.edu.pe
